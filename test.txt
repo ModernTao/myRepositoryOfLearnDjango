@@ -1,1 +1,2 @@
+add some content on test.txt
 new line on test.txt form ModernSecond
