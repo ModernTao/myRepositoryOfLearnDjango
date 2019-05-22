@@ -1,1 +1,2 @@
 # myRepositoryOfLearnDjango
+add some content
