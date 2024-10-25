@@ -1,3 +1,3 @@
 Learn Django
 ====================
-#### Folder structure
+#### Folder structure[.gitignore](.idea%2F.gitignore)
